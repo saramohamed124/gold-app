@@ -5,7 +5,9 @@
   justify-content: center;
   align-items: center;
 }
-
+.mt-7 {
+  margin-top: 5rem;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -61,9 +63,36 @@ img {
   width: 100%;
   text-align: center;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
+  padding: 10px;
 }
 .navbar-nav {
   margin: 0 !important;
+}
+.navbar a {
+  color: white;
+}
+.me-auto.navbar-nav {
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+}
+.img-gif {
+  max-width: 90%;
+  max-height: 100%;
+}
+nav.navbar.navbar-expand-xxl.navbar-light {
+  display: none;
+}
+@media (max-width: 767px) {
+  .navbar {
+    padding: 4px 0 !important;
+  }
+  nav.navbar.navbar-expand-xxl.navbar-light {
+    display: block;
+  }
+  table.table.table-striped.table-bordered.table-hover {
+    display: none;
+  }
 }

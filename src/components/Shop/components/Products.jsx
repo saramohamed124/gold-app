@@ -1,8 +1,9 @@
 import { useEffect } from "react";
 import {useDispatch, useSelector} from "react-redux"
-import { fetchData } from "../rtk/slices/productSlice";
+import { fetchData } from "../../../rtk/slices/productSlice";
 import { Card,  Col, Container, Row } from "react-bootstrap";
 import Button from 'react-bootstrap/Button';
+import { addToCart } from "../../../rtk/slices/cartSlice";
 
 function Products(){
     // Dispatch To Send Action To Store
@@ -27,7 +28,8 @@ return(
                         Some quick example text to build on the card title and make up the
                         bulk of the card's content.
                         </Card.Text>
-                        <Button variant="primary">Add To Cart</Button>
+                        <Card.Text>{product.price} $</Card.Text>
+                        <Button variant="warning" className="fw-medium text-white" onClick={()=>dispatch(addToCart(product))}>Add To Cart</Button>
                     </Card.Body>
                 </Card>
             </Col>

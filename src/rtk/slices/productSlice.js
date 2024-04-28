@@ -14,6 +14,7 @@ const productSlice = createSlice({
     // Actions On Our Reducer
     reducers:{},
     // Function Take Builder To Add Cases
+    // And To Call API
     extraReducers:(builder)=>{
         builder.addCase(fetchData.fulfilled,(state,action)=>{
             return action.payload;
