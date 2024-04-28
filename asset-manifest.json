@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/gold-app/static/css/main.191de728.css",
+    "main.js": "/gold-app/static/js/main.0f9b2318.js",
+    "static/js/453.c603e7e0.chunk.js": "/gold-app/static/js/453.c603e7e0.chunk.js",
+    "static/media/golden_ring-pearls.jpg": "/gold-app/static/media/golden_ring-pearls.7d1da83caaf80b3bd60a.jpg",
+    "static/media/golden-ring.jpg": "/gold-app/static/media/golden-ring.dc84d9356f8efef17e2f.jpg",
+    "static/media/golden_long-nose_mask.jpg": "/gold-app/static/media/golden_long-nose_mask.60b184134790aa3adbda.jpg",
+    "static/media/gold_necklace-simple.jpg": "/gold-app/static/media/gold_necklace-simple.f6358805656229d29155.jpg",
+    "static/media/gold_chain-slip.jpg": "/gold-app/static/media/gold_chain-slip.b8d94e0c144d02a5eadb.jpg",
+    "static/media/large_hoop-golden_earring.jpg": "/gold-app/static/media/large_hoop-golden_earring.a86ef2a02f32a96d0108.jpg",
+    "static/media/golden_earring-pearls.jpg": "/gold-app/static/media/golden_earring-pearls.86d3bfd76000d2e9c222.jpg",
+    "static/media/hoop-golden_earring.jpg": "/gold-app/static/media/hoop-golden_earring.67501ab84691a17cecb9.jpg",
+    "static/media/jewelry_shop_yellow.gif": "/gold-app/static/media/jewelry_shop_yellow.f985eb8e063910d3c420.gif",
+    "static/media/cart_empty.jpg": "/gold-app/static/media/cart_empty.9b45019f4c8f60d98922.jpg",
+    "static/media/checkout_img.gif": "/gold-app/static/media/checkout_img.dbeffbfee644ce10ec81.gif",
+    "static/media/cart_header.gif": "/gold-app/static/media/cart_header.4f69a648f2c2b452bd99.gif",
+    "index.html": "/gold-app/index.html",
+    "main.191de728.css.map": "/gold-app/static/css/main.191de728.css.map",
+    "main.0f9b2318.js.map": "/gold-app/static/js/main.0f9b2318.js.map",
+    "453.c603e7e0.chunk.js.map": "/gold-app/static/js/453.c603e7e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.191de728.css",
+    "static/js/main.0f9b2318.js"
+  ]
+}
