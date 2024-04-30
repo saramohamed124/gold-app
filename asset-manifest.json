@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gold-app/static/css/main.191de728.css",
-    "main.js": "/gold-app/static/js/main.0f9b2318.js",
+    "main.js": "/gold-app/static/js/main.158d8944.js",
     "static/js/453.c603e7e0.chunk.js": "/gold-app/static/js/453.c603e7e0.chunk.js",
     "static/media/golden_ring-pearls.jpg": "/gold-app/static/media/golden_ring-pearls.7d1da83caaf80b3bd60a.jpg",
     "static/media/golden-ring.jpg": "/gold-app/static/media/golden-ring.dc84d9356f8efef17e2f.jpg",
@@ -17,11 +17,11 @@
     "static/media/cart_header.gif": "/gold-app/static/media/cart_header.4f69a648f2c2b452bd99.gif",
     "index.html": "/gold-app/index.html",
     "main.191de728.css.map": "/gold-app/static/css/main.191de728.css.map",
-    "main.0f9b2318.js.map": "/gold-app/static/js/main.0f9b2318.js.map",
+    "main.158d8944.js.map": "/gold-app/static/js/main.158d8944.js.map",
     "453.c603e7e0.chunk.js.map": "/gold-app/static/js/453.c603e7e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.191de728.css",
-    "static/js/main.0f9b2318.js"
+    "static/js/main.158d8944.js"
   ]
 }
