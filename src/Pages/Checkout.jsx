@@ -5,7 +5,7 @@ import ProductInformation from "../components/Checkout/components/ProductInforma
 
 function Checkout(){
     return(
-        <Container className="mt-7 my-3">
+        <Container className="mt-7 mb-3">
             <CheckoutHeader/>
             <ProductInformation/>
             <CheckoutForm/>
