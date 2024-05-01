@@ -21,6 +21,7 @@ function App() {
   <Route path='checkout' element={<Checkout/>}></Route>
   <Route path='/cart/checkout' element={<Checkout/>}></Route>
 </Routes>
+
     </div>
   );
 }
